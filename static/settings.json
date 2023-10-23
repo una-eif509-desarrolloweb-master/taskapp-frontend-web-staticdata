@@ -1,0 +1,19 @@
+{
+  "settings": [
+    {
+      "id": "123",
+      "isValid": true,
+      "variable" : "activated"
+    },
+    {
+      "id": "232",
+      "isValid": false,
+      "variable" : "de-activated"
+    },
+    {
+      "id": "4312",
+      "isValid": true,
+      "variable" : "activated"
+    }
+  ]
+}
