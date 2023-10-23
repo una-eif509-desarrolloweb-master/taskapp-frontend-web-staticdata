@@ -2,17 +2,17 @@
   "settings": [
     {
       "id": "123",
-      "isValid": true,
+      "isValid": 1,
       "variable" : "activated"
     },
     {
       "id": "232",
-      "isValid": false,
+      "isValid": 0,
       "variable" : "de-activated"
     },
     {
       "id": "4312",
-      "isValid": true,
+      "isValid": 1,
       "variable" : "activated"
     }
   ]
