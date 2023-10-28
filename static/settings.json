@@ -15,5 +15,11 @@
       "isValid": 1,
       "variable" : "activated"
     }
+    ,
+    {
+      "id": "6622",
+      "isValid": 1,
+      "variable" : "test"
+    }
   ]
 }
